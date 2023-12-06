@@ -1,15 +1,22 @@
-# Fala devs 👋
+# Fala devs
 
 Gosto muito de programação!!!
+
+## Esse é meu repositório
+
+## Rede sociais e portifólio
+
+🏡 [Website][website] **|**
+👔 [LinkedIn][linkedin]
 
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **BRUNO** {
- val name = "BRUNO MESSIAS AGUIAR"
- val acknowledgements = "SUPORTE - INSTRUTOR - PROGRAMAÇÃO - TI"
+object bruno {
+ val name = "bruno messias aguiar"
+ val acknowledgements = "suporte - instrutor de ti - programador - ti"
 
  val primarySkillset = "HABILIDADES"
  val languages = listOf("Java", "Python", "JavaScript", "React Native",
@@ -76,7 +83,4 @@ object **BRUNO** {
 
 <br>
 
-## Rede sociais
 
-🏡 [Website][website] **|**
-👔 [LinkedIn][linkedin]
