@@ -75,9 +75,10 @@ import Desenvolvedor from "brunoaguiar1986";
 
 class SobreMim extends Desenvolvedor {
   nome = "bruno";
+  sobrenome = "aguiar";
   area = "ti";
   trabalho = "instrutor";
-  local = "mogi das cruzes";
+  local = "sao paulo";
 }
 
 ```
@@ -89,7 +90,7 @@ class SobreMim extends Desenvolvedor {
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomessiasaguiar/" alt="LinkedIn"/></a>
 
-  <a href="#" title="WhatsApp">
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511965655144" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5511965655144" alt="WhatsApp"/></a>
 
 </p>
