@@ -84,7 +84,7 @@ class SobreMim extends Desenvolvedor {
 ```
 
 <p align="left">
-  <a href="mailto: brunomessias46@gmail.com" title="Gmail">
+  <a href="mailto:brunomessias46@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:brunomessias46@gmail.com" alt="Gmail" /></a>
 
   <a href="https://www.linkedin.com/in/brunomessiasaguiar/" title="LinkedIn">
@@ -94,7 +94,7 @@ class SobreMim extends Desenvolvedor {
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5511965655144" alt="WhatsApp"/></a>
 
 </p>
-
+<a href=mailto:agentavery@sample.com
 
 
 
