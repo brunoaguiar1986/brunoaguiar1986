@@ -1,6 +1,6 @@
 # Fala devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto muito de programação!!!
 
 ## Mais sobre mim
 
@@ -12,7 +12,8 @@ object **BRUNO** {
  val acknowledgements = "SUPORTE - INSTRUTOR - PROGRAMAÇÃO - TI"
 
  val primarySkillset = "HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "React Native", "React", "Angular", "Node", "PHP", "Cloud")
+ val languages = listOf("Java", "Python", "JavaScript", "React Native",
+"React", "Angular", "Node", "PHP", "Cloud")
 
 }
 ```
