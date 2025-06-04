@@ -6,7 +6,7 @@ Esse é meu repositório
 ## Rede sociais e portifólio
 
 [website]: https://brunoaguiar1986.github.io/portifolio/
-[linkedin]: https://www.linkedin.com/in/brunomessiasaguiar/
+[linkedin]: https://www.linkedin.com/in/
 
 🏡 [Website][website] **|**
 👔 [LinkedIn][linkedin]
@@ -84,13 +84,13 @@ class SobreMim extends Desenvolvedor {
 ```
 
 <p align="left">
-  <a href="mailto:brunomessias46@gmail.com" title="Gmail">
+  <a href="mailto:" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:brunomessias46@gmail.com" alt="Gmail" /></a>
 
-  <a href="https://www.linkedin.com/in/brunomessiasaguiar/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomessiasaguiar/" alt="LinkedIn"/></a>
 
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511965655144" title="WhatsApp">
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=551199998888" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5511965655144" alt="WhatsApp"/></a>
 
 </p>
