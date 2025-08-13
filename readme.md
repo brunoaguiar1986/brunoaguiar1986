@@ -1,6 +1,5 @@
 # Fala devs
 
-Gosto muito de programação!!!
 Esse é meu repositório
 
 ## Rede sociais e portifólio
@@ -17,7 +16,7 @@ Esse é meu repositório
 
 ```kotlin
 object bruno {
- val name = "bruno messias aguiar"
+ val name = "bruno aguiar"
  val acknowledgements = "suporte - instrutor de ti - programador - ti"
 
  val primarySkillset = "HABILIDADES"
