@@ -84,9 +84,6 @@ const bruno = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brunoaguiar1986&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=E6EDF3&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaguiar1986&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&border_radius=12" />
-
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brunoaguiar1986&theme=dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00CCFF&currStreakLabel=00FF88&sideLabels=E6EDF3&dates=7D8590&border_radius=12)](https://git.io/streak-stats)
@@ -99,11 +96,13 @@ const bruno = {
 
 <div align="center">
 
-[![Sistema de Ponto]](https://github.com/brunoaguiar1986/sistema_ponto_login)
-[![Super Mario Jump]](https://github.com/brunoaguiar1986/mario)
+[[Sistema de Ponto]](https://github.com/brunoaguiar1986/sistema_ponto_login)
 
-[![Calculadora iPhone](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=calculadora_iphone&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/calculadora_iphone)
-[![IMC](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=imc&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/imc)
+[[Super Mario Jump]](https://github.com/brunoaguiar1986/mario)
+
+[[Calculadora iPhone]](https://github.com/brunoaguiar1986/calculadora_iphone)
+
+[[IMC]](https://github.com/brunoaguiar1986/imc)
 
 </div>
 
@@ -155,7 +154,7 @@ const bruno = {
 ║   repositórios e projetos escolares de alunos ║
 ║   iniciantes em programação                   ║
 ║   e entrar em contato.                        ║
-║   A tecnologia é incrivél! 💻                ║
+║   A tecnologia é incrívell! 💻               ║
 ╚══════════════════════════════════════════════╝
 ```
 
