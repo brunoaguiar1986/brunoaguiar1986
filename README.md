@@ -11,7 +11,7 @@
 
 ### `< Desenvolvedor Full Stack | Instrutor de TI | Support Analyst N3 />`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Bruno+Aguiar+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Instrutor+de+TI;Support+Analyst+Field+N3;Professor+de+TI+de+TI;Transformando+l%C3%B3gica+em+solu%C3%A7%C3%B5es!)](https://github.com/brunoaguiar1986)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Bruno+Aguiar+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Instrutor+de+TI;Support+Analyst+Field+N3;Professor+de+TI;Transformando+l%C3%B3gica+em+solu%C3%A7%C3%B5es!)](https://github.com/brunoaguiar1986)
 
 <br/>
 
