@@ -3,7 +3,7 @@
 ```
 ██████╗ ██████╗ ██╗   ██╗███╗   ██╗ ██████╗ 
 ██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔═══██╗
-██████╔╝██████╔╝██║   ██║██╔██╗ ██║██║   ██║
+██████╔╝██████╔╝██║   ██║██╔██╗ ██║██║   ██║ 
 ██╔══██╗██╔══██╗██║   ██║██║╚██╗██║██║   ██║
 ██████╔╝██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝
 ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ 
@@ -150,12 +150,14 @@ const bruno = {
 ```
 ╔══════════════════════════════════════════════╗
 ║   Obrigado por visitar meu perfil! 🚀        ║
-║   Fique à vontade para explorar meus repos   ║
-║   e entrar em contato. Vamos construir       ║
-║   algo incrível juntos! 💻                   ║
+║   Fique à vontade para explorar meus          ║
+║   repositórios e projetos escolares de alunos ║
+║   iniciantes em programação                   ║
+║   e entrar em contato.                        ║
+║   A tecnologia é incrivél! 💻                ║
 ╚══════════════════════════════════════════════╝
 ```
 
-**< Desenvolvido com 💚 por Bruno Aguiar />**
+**< Desenvolvido por Bruno Aguiar />**
 
 </div>
