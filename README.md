@@ -95,14 +95,14 @@ const bruno = {
 ## 🏆 Projetos em Destaque
 
 <div align="center">
+<img src="assets/img/sistema_ponto.PNG" alt="Sistema de Ponto" loading="lazy" onerror="this.src='https://via.placeholder.com/400x220/0a0a0a/00ff88?text=Sistema+de+Ponto'">
+[Sistema de Ponto](https://github.com/brunoaguiar1986/sistema_ponto_login)
 
-[[Sistema de Ponto]](https://github.com/brunoaguiar1986/sistema_ponto_login)
+[Super Mario Jump](https://github.com/brunoaguiar1986/mario)
 
-[[Super Mario Jump]](https://github.com/brunoaguiar1986/mario)
+[Calculadora iPhone](https://github.com/brunoaguiar1986/calculadora_iphone)
 
-[[Calculadora iPhone]](https://github.com/brunoaguiar1986/calculadora_iphone)
-
-[[IMC]](https://github.com/brunoaguiar1986/imc)
+[IMC](https://github.com/brunoaguiar1986/imc)
 
 </div>
 
