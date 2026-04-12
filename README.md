@@ -33,7 +33,8 @@ const bruno = {
   cargo: [
     "Desenvolvedor Full Stack",
     "Instrutor de TI",
-    "Support Analyst Field N3"
+    "Support Analyst Field N3",
+    "Professor de TI"
   ],
   missão:     "Ensinar, construir e evoluir através da tecnologia",
   hobbies:    ["Código", "Ensinar", "Resolver problemas complexos"],
@@ -98,8 +99,8 @@ const bruno = {
 
 <div align="center">
 
-[![Sistema de Ponto](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=sistema_ponto_login&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/sistema_ponto_login)
-[![Super Mario Jump](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=mario&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/mario)
+[![Sistema de Ponto]](https://github.com/brunoaguiar1986/sistema_ponto_login)
+[![Super Mario Jump]](https://github.com/brunoaguiar1986/mario)
 
 [![Calculadora iPhone](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=calculadora_iphone&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/calculadora_iphone)
 [![IMC](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=imc&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/imc)
