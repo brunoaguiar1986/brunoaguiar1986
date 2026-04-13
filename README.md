@@ -139,7 +139,7 @@ const bruno = {
 
 <div align="center">
 
-[Clique no link abaixo!]
+<Clique no link abaixo!/>
 <br/><br/>
 [Portfólio](https://brunoaguiar1986.github.io/portfolio/)
 
