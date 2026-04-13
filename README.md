@@ -139,7 +139,7 @@ const bruno = {
 
 <div align="center">
 
-[![Portfólio]](https://brunoaguiar1986.github.io/portfolio/)
+[!Portfólio](https://brunoaguiar1986.github.io/portfolio/)
 
 > `Node.js` `Socket.io` `HTML` `JavaScript` `Docker` `API REST` `CSS` `React`
 
