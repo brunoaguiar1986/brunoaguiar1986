@@ -139,13 +139,16 @@ const bruno = {
 
 <div align="center">
 
-[!Portfólio](https://brunoaguiar1986.github.io/portfolio/)
+[Clique no link abaixo!]
+[---]
+[Portfólio](https://brunoaguiar1986.github.io/portfolio/)
 
 > `Node.js` `Socket.io` `HTML` `JavaScript` `Docker` `API REST` `CSS` `React`
 
 ---
 
 ### ⚡ Em Construção — Novos Projetos em andamento...
+
 ```
 ╔══════════════════════════════════════════╗
 ║                                          ║
