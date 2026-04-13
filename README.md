@@ -127,9 +127,6 @@ const bruno = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brunoaguiar1986&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=E6EDF3&border_radius=12" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaguiar1986&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&border_radius=12" />
-
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brunoaguiar1986&theme=dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00CCFF&currStreakLabel=00FF88&sideLabels=E6EDF3&dates=7D8590&border_radius=12)](https://git.io/streak-stats)
@@ -138,12 +135,12 @@ const bruno = {
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Acesse meu portfólio com projetos!!
 
 <div align="center">
 
 ### 💬 Chat em Tempo Real — WhatsApp Clone
-[![whats](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=whats&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/whats)
+[[Portfólio]]([https://github.com/brunoaguiar1986/whats](https://brunoaguiar1986.github.io/portfolio/))
 
 > 💬 Aplicação de **mensagens instantâneas em tempo real**, inspirada no WhatsApp. Usa **Node.js + Socket.io** no backend e **HTML/JS** no frontend. Deploy via **Docker** no Render.
 >
