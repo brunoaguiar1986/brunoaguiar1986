@@ -3,7 +3,7 @@
 ```
 ██████╗ ██████╗ ██╗   ██╗███╗   ██╗ ██████╗ 
 ██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔═══██╗
-██████╔╝██████╔╝██║   ██║██╔██╗ ██║██║   ██║ 
+██████╔╝██████╔╝██║   ██║██╔██╗ ██║██║   ██║
 ██╔══██╗██╔══██╗██║   ██║██║╚██╗██║██║   ██║
 ██████╔╝██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝
 ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ 
@@ -11,12 +11,12 @@
 
 ### `< Desenvolvedor Full Stack | Instrutor de TI | Support Analyst N3 />`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Bruno+Aguiar+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Instrutor+de+TI;Support+Analyst+Field+N3;Professor+de+TI;Transformando+l%C3%B3gica+em+solu%C3%A7%C3%B5es!)](https://github.com/brunoaguiar1986)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Bruno+Aguiar+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Instrutor+de+TI+apaixonado+%F0%9F%8E%93;Support+Analyst+Field+N3;Transformando+l%C3%B3gica+em+solu%C3%A7%C3%B5es!+%F0%9F%9A%80)](https://github.com/brunoaguiar1986)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomessiasaguiar/)
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://brunoaguiar1986.github.io/portifolio/)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://brunoaguiar1986.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoaguiar1986)
 
 </div>
@@ -27,18 +27,17 @@
 
 ```javascript
 const bruno = {
-  nome:       "Bruno Aguiar",
-  idade:       39,
+  nome:        "Bruno Aguiar",
+  idade:        39,
   localização: "Brasil 🇧🇷",
   cargo: [
     "Desenvolvedor Full Stack",
     "Instrutor de TI",
-    "Support Analyst Field N3",
-    "Professor de TI"
+    "Support Analyst Field N3"
   ],
-  missão:     "Ensinar, construir e evoluir através da tecnologia",
-  hobbies:    ["Código", "Ensinar", "Resolver problemas complexos"],
-  atualmente: "Desenvolvendo projetos e formando novos devs 🚀"
+  missão:      "Ensinar, construir e evoluir através da tecnologia",
+  hobbies:     ["Código", "Ensinar", "Resolver problemas complexos"],
+  atualmente:  "Desenvolvendo projetos e formando novos devs 🚀"
 };
 ```
 
@@ -75,6 +74,49 @@ const bruno = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🧰 Ferramentas — Dev & Sala de Aula
+
+> Ferramentas que uso no dia a dia para desenvolver projetos e ministrar aulas de TI
+
+<div align="center">
+
+### 💻 IDEs & Editores
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-AF00DB?style=for-the-badge&logo=phpstorm&logoColor=white)
+
+### 🔀 Versionamento & Deploy
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🧪 Testes & API
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Expo Go](https://img.shields.io/badge/Expo_Go-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### 🎨 Design & Prototipação
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=for-the-badge&logo=excalidraw&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+
+### 📋 Gestão & Agilidade
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🌐 Plataformas & CMS
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Google Sites](https://img.shields.io/badge/Google_Sites-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
 
 </div>
 
@@ -84,6 +126,9 @@ const bruno = {
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=brunoaguiar1986&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=E6EDF3&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaguiar1986&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&border_radius=12" />
+
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=brunoaguiar1986&theme=dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00CCFF&currStreakLabel=00FF88&sideLabels=E6EDF3&dates=7D8590&border_radius=12)](https://git.io/streak-stats)
@@ -92,17 +137,75 @@ const bruno = {
 
 ---
 
-## 🏆 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
-[Sistema de Ponto](https://github.com/brunoaguiar1986/sistema_ponto_login)
+### 💬 Chat em Tempo Real — WhatsApp Clone
+[![whats](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=whats&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/whats)
 
-[Super Mario Jump](https://github.com/brunoaguiar1986/mario)
+> 💬 Aplicação de **mensagens instantâneas em tempo real**, inspirada no WhatsApp. Usa **Node.js + Socket.io** no backend e **HTML/JS** no frontend. Deploy via **Docker** no Render.
+>
+> `Node.js` `Socket.io` `HTML` `JavaScript` `Docker`
 
-[Calculadora iPhone](https://github.com/brunoaguiar1986/calculadora_iphone)
+---
 
-[IMC](https://github.com/brunoaguiar1986/imc)
+### 💵 Cotação do Dólar
+[![cotacaoDolar](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=cotacaoDolar&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/cotacaoDolar)
+
+> 💱 Consulta em tempo real da **cotação do Dólar**, consumindo API de câmbio externa. Interface limpa com atualização dinâmica — desenvolvido em aula para demonstrar consumo de APIs com JavaScript puro.
+>
+> `HTML` `CSS` `JavaScript` `API REST`
+
+---
+
+### ⚛️ Site Institucional em React
+[![siteReact](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=siteReact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/siteReact)
+
+> 🌐 Site institucional completo desenvolvido com **React.js**, componentização modular e deploy no **Vercel**. Demonstra boas práticas de estrutura de projeto React.
+>
+> `React` `JavaScript` `HTML` `CSS`
+
+---
+
+### 🎨 Tricolor — Projeto de Cores
+[![tricolor](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=tricolor&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/tricolor)
+
+> 🎨 Projeto interativo de manipulação de **cores RGB** em tempo real. Ótimo exemplo didático de eventos e manipulação do DOM com JavaScript puro.
+>
+> `HTML` `CSS` `JavaScript`
+
+---
+
+### 🌐 Tour360 — Tour Virtual
+[![Tour360](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=Tour360&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/Tour360)
+
+> 🔭 Experiência de **tour virtual 360°** na web. Navegação imersiva em ambientes com visualização panorâmica interativa, mostrando como integrar experiências visuais avançadas no browser.
+>
+> `HTML` `CSS` `JavaScript` `360°`
+
+---
+
+### ✅ To-Do List Kanban
+[![to-do-list-kanban](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=to-do-list-kanban&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/to-do-list-kanban)
+
+> 📋 Gerenciador de tarefas no estilo **Kanban** com drag & drop, colunas dinâmicas e persistência local. Projeto que demonstra organização de fluxo de trabalho ágil no frontend.
+>
+> `HTML` `CSS` `JavaScript` `Kanban`
+
+---
+
+### ⚡ Em Construção — Novo Projeto
+```
+╔══════════════════════════════════════════╗
+║                                          ║
+║        🔧  PROJETO EM ANDAMENTO          ║
+║                                          ║
+║   Algo novo está sendo construído...     ║
+║   Fique de olho! Em breve por aqui 👀    ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
 
 </div>
 
@@ -114,10 +217,11 @@ const bruno = {
 
 | 🎯 Área | 💼 Descrição |
 |---|---|
-| 👨‍🏫 **Instrutor de TI** | Formação de novos profissionais com foco em prática e mercado |
-| 🔧 **Support Analyst N3** | Suporte técnico avançado em infraestrutura e sistemas |
-| 💻 **Dev Full Stack** | Desenvolvimento web e mobile com stack moderna |
-| 🤖 **Hardware & IoT** | Projetos com Arduino, C++ e automação |
+| 👨‍🏫 **Instrutor de TI** | Formação de novos profissionais com foco em prática e mercado de trabalho |
+| 🔧 **Support Analyst N3** | Suporte técnico avançado em infraestrutura, sistemas e redes corporativas |
+| 💻 **Dev Full Stack** | Desenvolvimento web e mobile com stack moderna e projetos reais |
+| 🤖 **Hardware & IoT** | Projetos com Arduino, C++ e automação de sistemas físicos |
+| 🎨 **UI/UX & Prototipação** | Criação de interfaces com Figma, Excalidraw e metodologias ágeis |
 
 </div>
 
@@ -133,12 +237,12 @@ const bruno = {
 
 ---
 
-## 🤝 Para entrar em contato?
+## 🤝 Vamos conectar?
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Me+add+no+LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomessiasaguiar/)
-[![Portfólio](https://img.shields.io/badge/Ver+Portf%C3%B3lio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://brunoaguiar1986.github.io/portifolio/)
+[![Portfólio](https://img.shields.io/badge/Ver+Portf%C3%B3lio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://brunoaguiar1986.github.io/portfolio/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?l=pt_BR&phone=5511900001111)
 
 <br/>
@@ -150,14 +254,12 @@ const bruno = {
 ```
 ╔══════════════════════════════════════════════╗
 ║   Obrigado por visitar meu perfil! 🚀        ║
-║   Fique à vontade para explorar meus          ║
-║   repositórios e projetos escolares de alunos ║
-║   iniciantes em programação                   ║
-║   e entrar em contato.                        ║
-║   A tecnologia é incrívell! 💻               ║
+║   Fique à vontade para explorar meus repos   ║
+║   e entrar em contato. Vamos construir       ║
+║   algo incrível juntos! 💻                   ║
 ╚══════════════════════════════════════════════╝
 ```
 
-**< Desenvolvido por Bruno Aguiar />**
+**< Desenvolvido com 💚 por Bruno Aguiar />**
 
 </div>
