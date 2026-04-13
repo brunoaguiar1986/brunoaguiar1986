@@ -33,7 +33,8 @@ const bruno = {
   cargo: [
     "Desenvolvedor Full Stack",
     "Instrutor de TI",
-    "Support Analyst Field N3"
+    "Support Analyst Field N3",
+    "Professor de TI"
   ],
   missão:      "Ensinar, construir e evoluir através da tecnologia",
   hobbies:     ["Código", "Ensinar", "Resolver problemas complexos"],
