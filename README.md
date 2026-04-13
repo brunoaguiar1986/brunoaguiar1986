@@ -140,7 +140,7 @@ const bruno = {
 <div align="center">
 
 [Clique no link abaixo!]
-[---]
+<br/><br/>
 [Portfólio](https://brunoaguiar1986.github.io/portfolio/)
 
 > `Node.js` `Socket.io` `HTML` `JavaScript` `Docker` `API REST` `CSS` `React`
