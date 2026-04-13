@@ -139,68 +139,20 @@ const bruno = {
 
 <div align="center">
 
-### 💬 Chat em Tempo Real — WhatsApp Clone
 [![Portfólio]](https://brunoaguiar1986.github.io/portfolio/)
 
-> 💬 Aplicação de **mensagens instantâneas em tempo real**, inspirada no WhatsApp. Usa **Node.js + Socket.io** no backend e **HTML/JS** no frontend. Deploy via **Docker** no Render.
->
-> `Node.js` `Socket.io` `HTML` `JavaScript` `Docker`
+> `Node.js` `Socket.io` `HTML` `JavaScript` `Docker` `API REST` `CSS` `React`
 
 ---
 
-### 💵 Cotação do Dólar
-[![cotacaoDolar](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=cotacaoDolar&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/cotacaoDolar)
-
-> 💱 Consulta em tempo real da **cotação do Dólar**, consumindo API de câmbio externa. Interface limpa com atualização dinâmica — desenvolvido em aula para demonstrar consumo de APIs com JavaScript puro.
->
-> `HTML` `CSS` `JavaScript` `API REST`
-
----
-
-### ⚛️ Site Institucional em React
-[![siteReact](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=siteReact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/siteReact)
-
-> 🌐 Site institucional completo desenvolvido com **React.js**, componentização modular e deploy no **Vercel**. Demonstra boas práticas de estrutura de projeto React.
->
-> `React` `JavaScript` `HTML` `CSS`
-
----
-
-### 🎨 Tricolor — Projeto de Cores
-[![tricolor](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=tricolor&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/tricolor)
-
-> 🎨 Projeto interativo de manipulação de **cores RGB** em tempo real. Ótimo exemplo didático de eventos e manipulação do DOM com JavaScript puro.
->
-> `HTML` `CSS` `JavaScript`
-
----
-
-### 🌐 Tour360 — Tour Virtual
-[![Tour360](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=Tour360&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/Tour360)
-
-> 🔭 Experiência de **tour virtual 360°** na web. Navegação imersiva em ambientes com visualização panorâmica interativa, mostrando como integrar experiências visuais avançadas no browser.
->
-> `HTML` `CSS` `JavaScript` `360°`
-
----
-
-### ✅ To-Do List Kanban
-[![to-do-list-kanban](https://github-readme-stats.vercel.app/api/pin/?username=brunoaguiar1986&repo=to-do-list-kanban&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=E6EDF3&icon_color=00CCFF&border_radius=12)](https://github.com/brunoaguiar1986/to-do-list-kanban)
-
-> 📋 Gerenciador de tarefas no estilo **Kanban** com drag & drop, colunas dinâmicas e persistência local. Projeto que demonstra organização de fluxo de trabalho ágil no frontend.
->
-> `HTML` `CSS` `JavaScript` `Kanban`
-
----
-
-### ⚡ Em Construção — Novo Projeto
+### ⚡ Em Construção — Novos Projetos em andamento...
 ```
 ╔══════════════════════════════════════════╗
 ║                                          ║
 ║        🔧  PROJETO EM ANDAMENTO          ║
 ║                                          ║
 ║   Algo novo está sendo construído...     ║
-║   Fique de olho! Em breve por aqui 👀    ║
+║   Fique de olho! Em breve... 👀         ║
 ║                                          ║
 ╚══════════════════════════════════════════╝
 ```
