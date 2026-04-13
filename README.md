@@ -140,7 +140,7 @@ const bruno = {
 <div align="center">
 
 ### 💬 Chat em Tempo Real — WhatsApp Clone
-[[Portfólio]]([https://github.com/brunoaguiar1986/whats](https://brunoaguiar1986.github.io/portfolio/))
+[![Portfólio]](https://brunoaguiar1986.github.io/portfolio/)
 
 > 💬 Aplicação de **mensagens instantâneas em tempo real**, inspirada no WhatsApp. Usa **Node.js + Socket.io** no backend e **HTML/JS** no frontend. Deploy via **Docker** no Render.
 >
