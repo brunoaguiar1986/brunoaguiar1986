@@ -170,7 +170,7 @@ const bruno = {
 
 | 🎯 Área | 💼 Descrição |
 |---|---|
-| 👨‍🏫 **Instrutor de TI** | Formação de novos profissionais com foco em prática e mercado de trabalho |
+| 👨‍🏫 **Instrutor e Professor de TI** | Formação de novos profissionais com foco em prática e mercado de trabalho |
 | 🔧 **Support Analyst N3** | Suporte técnico avançado em infraestrutura, sistemas e redes corporativas |
 | 💻 **Dev Full Stack** | Desenvolvimento web e mobile com stack moderna e projetos reais |
 | 🤖 **Hardware & IoT** | Projetos com Arduino, C++ e automação de sistemas físicos |
